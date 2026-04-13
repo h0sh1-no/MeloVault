@@ -1,0 +1,44 @@
+# IDE
+.idea
+.vscode
+.cursor
+
+# Memory / AI context
+.cunzhi-memory
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+cookie.txt
+
+# Python
+venv
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Go
+bin
+*.exe
+*.dll
+*.so
+*.test
+*.out
+
+# Node
+node_modules
+web/dist
+
+# Build output
+dist
+
+# Downloads
+downloads
+
+# Misc
+cursor_.md
+er-diagram.html
+*.log

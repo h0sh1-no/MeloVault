@@ -1,0 +1,15 @@
+node_modules
+web/node_modules
+web/dist
+web/.vite
+downloads
+*.log
+.git
+.gitignore
+.env
+LICENSE
+README.md
+docker-compose.yml
+agent-transcripts
+terminals
+mcps
